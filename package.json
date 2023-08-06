@@ -1,0 +1,15 @@
+{
+  "name": "g0ld-modal",
+  "version": "1.0.3",
+  "description": "Modal package for the 14th project of OCR front-end course",
+  "main": "src/modal.jsx",
+  "scripts": {
+    "test": "test g0ld modal"
+  },
+  "keywords": [
+    "modal",
+    "OCR"
+  ],
+  "author": "LucasG0ld",
+  "license": "ISC"
+}
